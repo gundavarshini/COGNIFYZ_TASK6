@@ -282,9 +282,13 @@ This project strengthened my understanding of how frontend applications communic
   
 - CI/CD integration
 
-## Acknowledgment
+Internship: Full Stack Development Internship – Cognifyz Technologies 
 
-This project was developed as part of the **Full Stack Development Internship at Cognifyz Technologies**, under Level 4 – Task 7: Advanced API Usage and External API Integration.
+Level: Level 4 – Expert 
+
+Task: Task 7 – Advanced API Usage and External API Integration 
+
+Project: Atmos – Weather Dashboard
 
 ## Author
 
